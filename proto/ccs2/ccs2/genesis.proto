@@ -1,0 +1,12 @@
+syntax = "proto3";
+package ccs2.ccs2;
+
+import "gogoproto/gogo.proto";
+import "ccs2/ccs2/params.proto";
+
+option go_package = "ccs2/x/ccs2/types";
+
+// GenesisState defines the ccs2 module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+}

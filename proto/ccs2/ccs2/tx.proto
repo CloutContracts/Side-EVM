@@ -1,0 +1,7 @@
+syntax = "proto3";
+package ccs2.ccs2;
+
+option go_package = "ccs2/x/ccs2/types";
+
+// Msg defines the Msg service.
+service Msg {}
