@@ -1,3 +1,5 @@
+# YOU CAN RUN THIS IN LOCALHOST, WE HAVE NOT LAUNCHED THE RPC NODE JUST YET BECAUSE WE ARE TRYING TO GET ENOUGH BETA USERS AND EVALUATE THE "WORTH" OF THE ARCHITECTURE. THIS IS OFFICIALLY IN BETA AND "AS-IS".
+
 ![CCSLOGO](https://raw.githubusercontent.com/CloutContracts/cloutcontracts.github.io/main/assets/images/c-128x128.png)
 # ccs2
 **ccs2** is a blockchain built using Cosmos SDK and Tendermint and created with [Ignite CLI](https://ignite.com/cli).
